@@ -11,10 +11,6 @@
   gap: 5px;
 }
 
-.information span {
-  word-break: break-all;
-}
-
 .icon {
   flex-shrink: 0;
 }
